@@ -20,7 +20,7 @@ This project demonstrates skills in:
 
 ---
 
-## 📁 Dataset [Link](https://github.com/LukeTritsis13/Mobile_Reviews_EDA/blob/main/Mobile%20Reviews%20Sentiment.csv)
+## 📁 Dataset -  [Link](https://github.com/LukeTritsis13/Mobile_Reviews_EDA/blob/main/Mobile%20Reviews%20Sentiment.csv)
 The dataset includes:
 
 - `brand`  
